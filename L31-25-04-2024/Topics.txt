@@ -1,0 +1,43 @@
+Math Object
+
+Math.PI
+
+// Round off
+Math.round(x)
+
+// Round up
+Math.ceil(x)
+
+// Round down
+Math.floor(x)
+
+// Returns integer part
+Math.trunc(x)
+
+// to check number is negative, null or positive
+Math.sign(x)
+
+// Power
+Math.pow(x, p)
+
+// square root
+Math.sqrt(x)
+
+// absolute value
+Math.abs()
+
+// sin and cos
+Math.sin(x deg)
+Math.cos(y deg)
+
+// Minmum
+Math.min(x, y, z, ...)
+
+// Maximum
+Math.max(x, y, z, ...)
+
+
+
+============================================================================
+Type Conversion
+============================================================================
